@@ -10,7 +10,10 @@ O portal Transparência.net.br faz uso de bibliotecas de terceiros disponibiliza
 Para maiores detalhes, favor consultar:
 
 https://jquery.org/license/
+
 https://github.com/jquery/jquery-ui/blob/master/LICENSE.txt
+
 https://github.com/malsup/blockui
+
 https://www.sencha.com/legal/#Sencha_Ext_JS
 
